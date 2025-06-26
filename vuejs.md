@@ -3,6 +3,7 @@
 [環境構築](./vue/settings.md)
 [import文](./vue/import.md)
 [vueファイル](./vue/vuefile.md)
+[vue.jsの基礎](./vue/kiso.md)
 
 ### 単一コンポーネントとVite
 
