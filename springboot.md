@@ -1,6 +1,6 @@
 # Spring Boot
 
-[環境構築](./setting.md)
-[Maven](./maven.md)
+[環境構築](./springboot/setting.md)
+[Maven](./springboot/maven.md)
 
 ## Spring Bootとは
