@@ -4,6 +4,8 @@
 [import文](./vue/import.md)
 [vueファイル](./vue/vuefile.md)
 [vue.jsの基礎](./vue/kiso.md)
+[レンダリング](./vue/rendering.md)
+
 
 ### 単一コンポーネントとVite
 
