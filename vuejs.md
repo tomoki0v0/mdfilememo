@@ -5,6 +5,7 @@
 [vueファイル](./vue/vuefile.md)
 [vue.jsの基礎](./vue/kiso.md)
 [レンダリング](./vue/rendering.md)
+[Jest](./vue/jest.md)
 
 
 ### 単一コンポーネントとVite

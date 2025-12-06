@@ -1,0 +1,2 @@
+# Typescriptの型
+
